@@ -1,3 +1,3 @@
 const _  = require('lodash')
 
-module.exports = _.isEmpty
+module.exports = _.isArray
